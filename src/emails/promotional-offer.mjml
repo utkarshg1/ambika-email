@@ -78,7 +78,7 @@
     <!-- STATS ROW 1 -->
     <mj-section padding="20px 24px 4px 24px" background-color="#FFFFFF">
       <mj-group width="100%">
-        <mj-column width="33.33%" padding="4px">
+        <mj-column width="50%" padding="4px">
           <mj-text padding="0">
             <div class="stat-box">
               <div class="stat-number">3,400</div>
@@ -86,7 +86,7 @@
             </div>
           </mj-text>
         </mj-column>
-        <mj-column width="33.33%" padding="4px">
+        <mj-column width="50%" padding="4px">
           <mj-text padding="0">
             <div class="stat-box">
               <div class="stat-number">2nd</div>
@@ -94,7 +94,13 @@
             </div>
           </mj-text>
         </mj-column>
-        <mj-column width="33.33%" padding="4px">
+      </mj-group>
+    </mj-section>
+
+    <!-- STATS ROW 2 -->
+    <mj-section padding="4px 24px 4px 24px" background-color="#FFFFFF">
+      <mj-group width="100%">
+        <mj-column width="50%" padding="4px">
           <mj-text padding="0">
             <div class="stat-box">
               <div class="stat-number">1 Ton</div>
@@ -102,13 +108,7 @@
             </div>
           </mj-text>
         </mj-column>
-      </mj-group>
-    </mj-section>
-
-    <!-- STATS ROW 2 -->
-    <mj-section padding="4px 24px 20px 24px" background-color="#FFFFFF">
-      <mj-group width="100%">
-        <mj-column width="33.33%" padding="4px">
+        <mj-column width="50%" padding="4px">
           <mj-text padding="0">
             <div class="stat-box">
               <div class="stat-number">&#8734;</div>
@@ -116,7 +116,13 @@
             </div>
           </mj-text>
         </mj-column>
-        <mj-column width="33.33%" padding="4px">
+      </mj-group>
+    </mj-section>
+
+    <!-- STATS ROW 3 -->
+    <mj-section padding="4px 24px 20px 24px" background-color="#FFFFFF">
+      <mj-group width="100%">
+        <mj-column width="50%" padding="4px">
           <mj-text padding="0">
             <div class="stat-box">
               <div class="stat-number">100</div>
@@ -124,7 +130,7 @@
             </div>
           </mj-text>
         </mj-column>
-        <mj-column width="33.33%" padding="4px">
+        <mj-column width="50%" padding="4px">
           <mj-text padding="0">
             <div class="stat-box">
               <div class="stat-number">2</div>
