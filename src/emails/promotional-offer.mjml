@@ -267,12 +267,10 @@
                   </v:roundrect>
                   <![endif]-->
                   <!--[if !mso]><!-->
-                  <div style="display: inline-block; background: #FFA500; border-radius: 50%; width: 60px; height: 60px; overflow: hidden; box-shadow: 0 4px 20px rgba(255,165,0,0.4);">
-                    <table cellpadding="0" cellspacing="0" border="0" width="60" height="60" style="width: 60px; height: 60px; table-layout: fixed;">
-                      <tr>
-                        <td align="center" valign="middle" style="text-align: center; vertical-align: middle; font-size: 28px; color: #FFFFFF;">&#9654;</td>
-                      </tr>
-                    </table>
+                  <div style="background: #FFA500; border-radius: 50%; width: 60px; height: 60px; box-shadow: 0 4px 20px rgba(255,165,0,0.4); text-align: center;">
+                    <div style="padding: 18px 0 0 22px;">
+                      <div style="width: 0; height: 0; border-style: solid; border-width: 12px 0 12px 20px; border-color: transparent transparent transparent #FFFFFF;"></div>
+                    </div>
                   </div>
                   <!--<![endif]-->
                 </td>
