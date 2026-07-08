@@ -12,12 +12,12 @@
       <mj-column padding="0 12px" />
     </mj-attributes>
     <mj-style inline="inline">
-      .stat-number { font-size: 28px; font-weight: 800; color: #1F2937; line-height: 1.2; }
+      .stat-number { font-size: 28px; font-weight: 800; color: #1F2937; line-height: 1.2; white-space: nowrap; }
       .stat-label { font-size: 12px; color: #6B7280; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
       .stat-box { text-align: center; padding: 16px 8px; background: #FFFBEB; border-radius: 12px; }
       .offer-highlight { color: #FCD34D; }
       @media only screen and (max-width: 480px) {
-        .stat-number { font-size: 22px !important; }
+        .stat-number { font-size: 18px !important; }
       }
     </mj-style>
   </mj-head>
