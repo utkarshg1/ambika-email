@@ -1,0 +1,12 @@
+{
+  "name": "ambika-email",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mjml src/emails/promotional-offer.mjml -o dist/promotional-offer.html",
+    "watch": "mjml src/emails/promotional-offer.mjml -o dist/promotional-offer.html -w"
+  },
+  "devDependencies": {
+    "mjml": "^4.15.3"
+  }
+}
