@@ -250,6 +250,7 @@
     <mj-section padding="0 24px 24px 24px" background-color="#FFFFFF">
       <mj-column width="280px" padding="0">
         <mj-text padding="0">
+          <div style="border: 3px solid #FFA500; border-radius: 15px; overflow: hidden; max-width: 286px; margin: 0 auto;">
           <a href="https://www.youtube.com/shorts/WPxrUGJySt8" target="_blank" rel="noopener" style="text-decoration: none; display: block; max-width: 280px; margin: 0 auto; border-radius: 12px; overflow: hidden; background: #111827;">
             <img src="https://ambika-real-estate.vercel.app/_app/immutable/assets/Premium%20Building%20Photo.1UXdpFPh.jpeg" alt="Ambika Real Estate - Premium Commercial Space Tour" width="280" height="498" style="display: block; width: 280px; height: 498px; border: 0;" />
             <div style="line-height: 498px; text-align: center; margin-top: -498px; height: 498px; font-size: 0;">
@@ -258,6 +259,7 @@
               </span>
             </div>
           </a>
+          </div>
         </mj-text>
         <mj-text align="center" font-size="12px" color="#9CA3AF" padding="10px 0 0 0">
           Tap to watch the full video tour &rarr;
