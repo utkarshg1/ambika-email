@@ -251,13 +251,25 @@
       <mj-column width="280px" padding="0">
         <mj-text padding="0">
           <div style="border: 3px solid #FFA500; border-radius: 15px; overflow: hidden; max-width: 286px; margin: 0 auto;">
-          <a href="https://www.youtube.com/shorts/WPxrUGJySt8" target="_blank" rel="noopener" style="text-decoration: none; display: block; max-width: 280px; margin: 0 auto; border-radius: 12px; overflow: hidden; background: #111827;">
-            <img src="https://ambika-real-estate.vercel.app/_app/immutable/assets/Premium%20Building%20Photo.1UXdpFPh.jpeg" alt="Ambika Real Estate - Premium Commercial Space Tour" width="280" height="498" style="display: block; width: 280px; height: 498px; border: 0;" />
-            <div style="line-height: 498px; text-align: center; margin-top: -498px; height: 498px; font-size: 0;">
-              <span style="display: inline-block; vertical-align: middle; line-height: normal; background: #FFA500; border-radius: 50%; width: 60px; height: 60px; text-align: center; box-shadow: 0 4px 20px rgba(255,165,0,0.4);">
-                <span style="color: #FFFFFF; font-size: 28px; line-height: 60px; margin-left: 4px;">&#9654;</span>
-              </span>
-            </div>
+          <a href="https://www.youtube.com/shorts/WPxrUGJySt8" target="_blank" rel="noopener" style="text-decoration: none; display: block; border-radius: 12px; overflow: hidden;">
+            <!--[if gte mso 9]>
+            <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:280px;height:498px;">
+              <v:fill type="frame" src="https://ambika-real-estate.vercel.app/_app/immutable/assets/Premium%20Building%20Photo.1UXdpFPh.jpeg" color="#111827" />
+              <v:textbox inset="0,0,0,0" style="mso-fit-shape-to-text:true">
+            <![endif]-->
+            <table cellpadding="0" cellspacing="0" border="0" width="280" style="width: 280px; table-layout: fixed;">
+              <tr>
+                <td width="280" height="498" background="https://ambika-real-estate.vercel.app/_app/immutable/assets/Premium%20Building%20Photo.1UXdpFPh.jpeg" style="background: url('https://ambika-real-estate.vercel.app/_app/immutable/assets/Premium%20Building%20Photo.1UXdpFPh.jpeg') no-repeat center / cover #111827; width: 280px; height: 498px;" valign="middle" align="center">
+                  <span style="display: inline-block; background: #FFA500; border-radius: 50%; width: 60px; height: 60px; line-height: 60px; text-align: center; box-shadow: 0 4px 20px rgba(255,165,0,0.4);">
+                    <span style="color: #FFFFFF; font-size: 28px; margin-left: 4px;">&#9654;</span>
+                  </span>
+                </td>
+              </tr>
+            </table>
+            <!--[if gte mso 9]>
+              </v:textbox>
+            </v:rect>
+            <![endif]-->
           </a>
           </div>
         </mj-text>
